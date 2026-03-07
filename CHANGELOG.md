@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c8299c8`](https://github.com/stdlib-js/stdlib/commit/c8299c8742aae38d379e1f213135fd8616dc935a) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/snansum` [(#10769)](https://github.com/stdlib-js/stdlib/pull/10769) _(by Prajjwal Bajpai)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prajjwal Bajpai
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
