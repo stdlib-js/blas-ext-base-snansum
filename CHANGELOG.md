@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`59184d4`](https://github.com/stdlib-js/stdlib/commit/59184d4483dc012c2f342a356ce9ed7c6643819c) - **bench:** refactor to use string interpolation in `blas/ext/base/snansum` [(#10987)](https://github.com/stdlib-js/stdlib/pull/10987) _(by Partha Das)_
 -   [`c8299c8`](https://github.com/stdlib-js/stdlib/commit/c8299c8742aae38d379e1f213135fd8616dc935a) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/snansum` [(#10769)](https://github.com/stdlib-js/stdlib/pull/10769) _(by Prajjwal Bajpai)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Partha Das
 -   Prajjwal Bajpai
 
 </section>
